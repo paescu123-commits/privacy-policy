@@ -2,9 +2,9 @@ Privacy Policy for MUSIC TOOLS :CUT, COMBINE MP3, CONVERT FROM MP4
 
 Effective date: 30 October 2026
 
-This Privacy Policy explains how [APP NAME] ("the App", "we", "us") handles information when you use the App on Android. The App is developed and operated by [YOUR FULL NAME / COMPANY NAME], [CITY], Switzerland.
+This Privacy Policy explains how MUSIC TOOLS :CUT, COMBINE MP3, CONVERT FROM MP4 handles information when you use the App on Android. The App is developed and operated by Pascal Huber, 5210 Windisch, Switzerland 
 
-If you have any questions, contact us at [YOUR EMAIL ADDRESS].
+If you have any questions, contact us at Email: paescu123@gmail.com
 
 1. Summary
 Your audio and video files are processed only on your device. We never upload, store or see them.
@@ -82,7 +82,7 @@ Receive it in a portable format
 Withdraw consent at any time
 Lodge a complaint with a supervisory authority. In Switzerland, this is the Federal Data Protection and Information Commissioner (FDPIC / EDÖB); in the EU, it is your local data protection authority.
 
-Because we do not store your personal data ourselves, most requests concerning ads or payments are best directed to Google. You can still contact us at [YOUR EMAIL ADDRESS] and we will help.
+Because we do not store your personal data ourselves, most requests concerning ads or payments are best directed to Google. You can still contact us at Email: paescu123@gmail.com and we will help.
 
 10. Children's privacy
 
@@ -94,4 +94,4 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 12. Contact
 
-Pascal Huber, 5210 Windisch, Switzerland Email: paescu123@gmail.com
+Pascal Huber, 5210 Windisch, Switzerland, Email: paescu123@gmail.com
