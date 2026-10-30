@@ -1,4 +1,4 @@
-Privacy Policy for [APP NAME]
+Privacy Policy for MUSIC TOOLS :CUT, COMBINE MP3, CONVERT FROM MP4
 
 Effective date: 30 October 2026
 
